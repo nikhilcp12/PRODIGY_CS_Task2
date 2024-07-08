@@ -1,4 +1,4 @@
-3. Password Complexity Checker
+Password Complexity Checker
 Description:
 Built a password complexity checker to evaluate the strength of passwords and provide feedback on how to enhance their security.
 
