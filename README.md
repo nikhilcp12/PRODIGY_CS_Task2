@@ -1,2 +1,13 @@
+3. Password Complexity Checker
+Description:
+Built a password complexity checker to evaluate the strength of passwords and provide feedback on how to enhance their security.
 
-In this i will upload all my intership task related to cybersecurity.
+Technologies Used:
+
+Python
+Tkinter
+Features:
+
+Real-time password strength evaluation
+Suggestions for improving password security
+Visual indicators for password strength levels
