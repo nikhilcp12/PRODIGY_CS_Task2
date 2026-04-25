@@ -1,6 +1,4 @@
-Sure! Here is a README file for the password complexity checker.
 
----
 
 # Password Complexity Checker
 
